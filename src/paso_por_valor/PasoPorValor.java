@@ -3,6 +3,7 @@ package paso_por_valor;
 /**
  *
  * @author bryan salva torres
+ * este paso solo hace una copia de su valor y lo envia a otro metodo
  */
 public class PasoPorValor {
     public static void main(String[] args) {
