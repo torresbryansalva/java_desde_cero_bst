@@ -64,7 +64,8 @@ public class Computadora {
 
     @Override
     public String toString() {
-        return "Computadora{" + "idcomputadora=" + idcomputadora + ", nombre=" + nombre + ", pantalla=" + pantalla + ", teclado=" + teclado + ", raton=" + raton + '}';
+        return "Computadora{" + "idcomputadora=" + idcomputadora + ", nombre=" + nombre +
+                ", pantalla=" + pantalla + ", teclado=" + teclado + ", raton=" + raton + '}';
     }
   
 }
