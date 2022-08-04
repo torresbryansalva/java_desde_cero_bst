@@ -5,11 +5,11 @@ package sobreEscritura;
  *
  * @author Bryan
  */
-public class Empleado {
+public class EmpleadoH {
     protected String nombre;
     protected int sueldo;
     
-    public Empleado(String nombre,int sueldo){
+    public EmpleadoH(String nombre,int sueldo){
     this.nombre=nombre;
     this.sueldo=sueldo;
     }

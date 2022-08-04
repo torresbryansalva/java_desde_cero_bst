@@ -1,0 +1,2 @@
+hola desde Java, estamos en el archivo
+Adios

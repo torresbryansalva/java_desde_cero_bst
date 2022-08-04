@@ -5,7 +5,7 @@ package sobreEscritura;
  *
  * @author bryan
  */
-public class ClaseHija extends Empleado{
+public class ClaseHija extends EmpleadoH{
     private String depa;
     
     public ClaseHija(String nombre, int sueldo,String depa){
